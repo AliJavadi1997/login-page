@@ -1,33 +1,29 @@
 # **Login Page**
 
----
 
 This project is a simple login page implemented using HTML, CSS, and JavaScript. The purpose of this login page is to provide a user interface where users can enter their credentials to authenticate and access a protected area or perform specific actions within a website or application.
 
-> ## Table of content
->
-> - Features
-> - Prerequisites
-> - Usage
-> - Customization
-> - Contributing
-> - License
->
-> ## Features
+## Table of content
 
----
+* Features
+* Prerequisites
+* Usage
+* Customization
+* Contributing
+* License
 
-> - User-friendly login form with input validation
+## Features
+
+
+*  User-friendly login form with input validation
 
 ## Prerequisites
 
----
 
 To use this login page, you need a web browser that supports HTML5, CSS3, and JavaScript.
 
 ## Usage
 
----
 
 1. Download or clone the project repository to your local machine.
 2. Open the index.html file in a web browser.
@@ -36,7 +32,6 @@ To use this login page, you need a web browser that supports HTML5, CSS3, and Ja
 
 ## Customization
 
----
 
 To customize the login page for your specific needs:
 
@@ -49,7 +44,6 @@ To customize the login page for your specific needs:
 
 ## Contributing
 
----
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
@@ -59,7 +53,6 @@ To customize the login page for your specific needs:
 
 ## License
 
----
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code for personal or commercial purposes.
 
