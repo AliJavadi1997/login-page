@@ -35,15 +35,13 @@ To use this login page, you need a web browser that supports HTML5, CSS3, and Ja
 
 To customize the login page for your specific needs:
 
-> - Open the index.html file in a text editor.
-> - Modify the HTML structure to match your desired layout or branding.
-> - Adjust the CSS styles in the <style> section or link an external CSS file to customize the appearance.
-> - Extend the JavaScript code in the <script> section to implement additional functionality or integrate with a backend system.
->
-> Feel free to adapt the login page to suit your project's requirements.
+* Open the index.html file in a text editor.
+* Modify the HTML structure to match your desired layout or branding.
+* Adjust the CSS styles in the <style> section or link an external CSS file to customize the appearance.
+*  Extend the JavaScript code in the <script> section to implement additional functionality or integrate with a backend system.
+Feel free to adapt the login page to suit your project's requirements.
 
 ## Contributing
-
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
@@ -53,12 +51,9 @@ To customize the login page for your specific needs:
 
 ## License
 
-
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code for personal or commercial purposes.
 
 ## Contact
-
----
 
 If you have any questions, suggestions, or feedback regarding the login page project, please feel free to contact me at alijavadiou@gmail.com.
 
